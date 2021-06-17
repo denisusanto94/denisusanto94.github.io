@@ -1,0 +1,343 @@
+{
+    "data_user":
+        {
+            "username":"admin",
+            "fullname":"admin",
+            "password":"admin"
+        },
+    "data_anggota":
+        {
+            "data":[
+                {
+                    "id": 1,
+                    "nama_depan": "Shawna1",
+                    "nama_belakang": "Dubbin",
+                    "nrp": "444",
+                    "pangkat": "Admin",
+                    "sebagai_kepala": "Admin",
+                    "status": "Admin"
+                },
+                {
+                    "id": 2,
+                    "nama_depan": "Shawna2",
+                    "nama_belakang": "Dubbin",
+                    "nrp": "555",
+                    "pangkat": "Admin",
+                    "sebagai_kepala": "Admin",
+                    "status": "Admin"
+                },
+                {
+                    "id": 3,
+                    "nama_depan": "Shawna2",
+                    "nama_belakang": "Dubbin",
+                    "nrp": "444",
+                    "pangkat": "Admin",
+                    "sebagai_kepala": "Admin",
+                    "status": "Admin"
+                },
+                {
+                    "id": 4,
+                    "nama_depan": "Shawna2",
+                    "nama_belakang": "Dubbin",
+                    "nrp": "111",
+                    "pangkat": "Admin",
+                    "sebagai_kepala": "Admin",
+                    "status": "Admin"
+                },
+                {
+                    "id": 5,
+                    "nama_depan": "Shawna2",
+                    "nama_belakang": "Dubbin",
+                    "nrp": "222",
+                    "pangkat": "Admin",
+                    "sebagai_kepala": "Admin",
+                    "status": "Admin"
+                },
+                {
+                    "id": 6,
+                    "nama_depan": "Shawna6",
+                    "nama_belakang": "Dubbin",
+                    "nrp": "333",
+                    "pangkat": "Admin",
+                    "sebagai_kepala": "Admin",
+                    "status": "Admin"
+                }
+            ],
+            "total_data":"6"
+        },
+    "data_pengguna":
+        {
+            "data":[
+                {
+                    "id":1,
+                    "username": "Shawna",
+                    "nama_depan": "Shawna",
+                    "nama_belakang": "Dubbin",
+                    "email": "12345",
+                    "level": "Admin",
+                    "polda": "Admin",
+                    "polres": "Admin",
+                    "status": "Admin"
+                },
+                {
+                    "id":2,
+                    "username": "Shawna",
+                    "nama_depan": "Shawna",
+                    "nama_belakang": "Dubbin",
+                    "email": "12345",
+                    "level": "Admin",
+                    "polda": "Admin",
+                    "polres": "Admin",
+                    "status": "Admin"
+                },
+                {
+                    "id":3,
+                    "username": "Shawna",
+                    "nama_depan": "Shawna",
+                    "nama_belakang": "Dubbin",
+                    "email": "12345",
+                    "level": "Admin",
+                    "polda": "Admin",
+                    "polres": "Admin",
+                    "status": "Admin"
+                },
+                {
+                    "id":4,
+                    "username": "Shawna",
+                    "nama_depan": "Shawna",
+                    "nama_belakang": "Dubbin",
+                    "email": "12345",
+                    "level": "Admin",
+                    "polda": "Admin",
+                    "polres": "Admin",
+                    "status": "Admin"
+                },
+                {
+                    "id":5,
+                    "username": "Shawna",
+                    "nama_depan": "Shawna",
+                    "nama_belakang": "Dubbin",
+                    "email": "12345",
+                    "level": "Admin",
+                    "polda": "Admin",
+                    "polres": "Admin",
+                    "status": "Admin"
+                },
+                {
+                    "id":6,
+                    "username": "Shawna",
+                    "nama_depan": "Shawna",
+                    "nama_belakang": "Dubbin",
+                    "email": "12345",
+                    "level": "Admin",
+                    "polda": "Admin",
+                    "polres": "Admin",
+                    "status": "Admin"
+                }
+            ],
+            "total_data":"6"
+        },
+    "data_manajemen_akses":
+        {
+            "data":[
+                {
+                    "id":1,
+                    "permission": "view-data"
+                },
+                {
+                    "id":2,
+                    "permission": "delete-data"
+                }
+            ],
+            "total_data":"2"
+        },
+    "data_manajemen_role":
+        {
+            "data":[
+                {
+                    "id":1,
+                    "nama": "Level 1",
+                    "role_status": "view-data"
+                },
+                {
+                    "id":2,
+                    "nama": "Level 2",
+                    "role_status": "delete-data"
+                }
+            ],
+            "total_data":"2"
+        },
+    "data_perkara":
+        {
+            "data":[
+                {
+                    "id": "1",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345"
+                },
+                {
+                    "id": "2",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345"
+                },
+                {
+                    "id": "3",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345"
+                },
+                {
+                    "id": "4",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345"
+                },
+                {
+                    "id": "5",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345"
+                },
+                {
+                    "id": "6",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345"
+                }
+            ],
+            "total_data":"6"
+        },
+    "data_produktivitas":
+        {
+            "data":[
+                {
+                    "id": "1",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                },
+                {
+                    "id": "2",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                },
+                {
+                    "id": "3",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                },
+                {
+                    "id": "4",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                },
+                {
+                    "id": "5",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                },
+                {
+                    "id": "6",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                }
+            ],
+            "total_data":"6"
+        },
+    "data_rekap":
+        {
+            "data":[
+                {
+                    "id": "1",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                },
+                {
+                    "id": "2",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                },
+                {
+                    "id": "3",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                },
+                {
+                    "id": "4",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                },
+                {
+                    "id": "5",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                },
+                {
+                    "id": "6",
+                    "nolp": "Shawna",
+                    "polres": "Dubbin",
+                    "tanggal_laka": "12345",
+                    "status": "status"
+                }
+            ],
+            "total_data":"6"
+        },
+    "data_dpb":
+        {
+            "data":[
+
+            ],
+            "total_data":"0"
+        },
+    "data_dpo":
+        {
+            "data":[
+
+            ],
+            "total_data":"0"
+        },
+    "layanan_darurat":
+        {
+            "data":[
+
+            ],
+            "total_data":"0"
+        },
+    "daftar_wilayah":
+        {
+            "data":[
+
+            ],
+            "total_data":"0"
+        },
+    "struktur_organisasi":
+        {
+            "data":[
+
+            ],
+            "total_data":"0"
+        }
+}
