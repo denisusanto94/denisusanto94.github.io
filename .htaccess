@@ -1,5 +1,3 @@
-<IfModule mod_rewrite.c>
-	order deny,allow
-    deny from all
-    allow from 180.252.148.224
-</IfModule>
+<RequireAny>
+    Require ip 180.252.148.224
+</RequireAny>
